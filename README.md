@@ -1,5 +1,5 @@
 Hello Everyone i am  @HarshYadav152
-I’m interested in Computer Knoweledge , Programming Skills , Cyb
+I’m interested in Computer Knoweledge , Programming Skills 
 - 🌱 I’m currently learning ... Fundamenals of computers and some programming languages
 
 <!---
