@@ -1,11 +1,4 @@
-<h2 align="center"> This is Harsh</h2> 
-
-
-<div align="center">
-
-<h3>Visitors</h3> 
- <img src="https://profile-counter.glitch.me/HarshYadav152/count.svg" height="50" alt="Profile Views"  />
-
+<h2 align="center">Hey, This is Harsh</h2> 
 
 <div align="center">
 
