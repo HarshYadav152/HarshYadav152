@@ -28,8 +28,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-
-###
-
-<h1 align='center' >Thank You for Visiting My GitHub Profile!</h1>
