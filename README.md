@@ -5,8 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=harshyadav152&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
   <img style="margin-top:20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadav152&layout=compact&theme=dracula" height="150" alt="languages graph"  />
 </div>
-<div align="center" style="margin-top: 20">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=harshyadav152&theme=cobalt' alt='streaks'/>
 </div>
 
 ##
