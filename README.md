@@ -1,13 +1,8 @@
 <h2 align="center">Hey, This is Harsh</h2> 
 
 <div align="center">
-
-<a href="https://github.com/harshyadav152/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshyadav152&theme=material-palenight" />
-</a> 
-<a href="https://github.com/harshyadav152/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshyadav152&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
-  </a>
+  <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshyadav152&theme=material-palenight" />
+  <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshyadav152&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
 </div>
 
 
