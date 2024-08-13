@@ -2,12 +2,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshyadav152&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
-  <img style="margin-top:20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadav152&layout=compact&theme=dracula" height="150" alt="languages graph"  />
+<a href="https://github.com/harshyadav152/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshyadav152&theme=material-palenight" />
+</a> 
+<a href="https://github.com/harshyadav152/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshyadav152&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
+  </a>
 </div>
-</div>
-
-##
 
 
 <h2 align="center">Skills</h2>
