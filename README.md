@@ -1,7 +1,7 @@
 <h2 align="center">Hey, This is Harsh</h2> 
 
 <div align="center">
-  <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshyadav152&layout=compact&langs_count=10&card_width=320&theme=material-palenight" />
+  <img style="height:150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshyadav152&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
 </div>
 
 
