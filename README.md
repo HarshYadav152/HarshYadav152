@@ -72,7 +72,8 @@ Here’s what’s usually in my dev toolkit:
 
   ```bash
   curl -L harshyadav152.me | grep 'innovation'
-  # Output: Changing the world, one commit at a time.```
+  # Output: Changing the world, one commit at a time.
+```
 </details>
 
 ### If you smiled reading this, we should definitely talk.
