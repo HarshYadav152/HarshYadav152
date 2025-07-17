@@ -1,10 +1,4 @@
-![Visitor Badge](https://komarev.com/ghpvc/?username=HarshYadav152&style=flat-square)
 
-<!-- GitHub Stats & Top Langs -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshYadav152&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav152&layout=compact&theme=radical" height="180px"/>
-</p>
 
 # 👋 Hey, I’m Harsh Yadav!
 
@@ -35,6 +29,14 @@ Here’s what’s usually in my dev toolkit:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+![Visitor Badge](https://komarev.com/ghpvc/?username=HarshYadav152&style=flat-square)
+
+<!-- GitHub Stats & Top Langs -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshYadav152&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav152&layout=compact&theme=radical" height="180px"/>
+</p>
 ---
 
 ## 🔧 Featured Projects
@@ -70,7 +72,7 @@ Here’s what’s usually in my dev toolkit:
 
   ```bash
   curl -L harshyadav152.me | grep 'innovation'
-  # Output: Changing the world, one commit at a time.
+  # Output: Changing the world, one commit at a time.```
 </details>
 
 ### If you smiled reading this, we should definitely talk.
