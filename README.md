@@ -1,4 +1,4 @@
-
+hi
 
 # 👋 Hey, I’m Harsh Yadav!
 
@@ -35,7 +35,7 @@ Here’s what’s usually in my dev toolkit:
 <!-- GitHub Stats & Top Langs -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshYadav152&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav152&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav152&layout=compact&theme=radical&langs_count=10" height="180px"/>
 </p>
 ---
 
