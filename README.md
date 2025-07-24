@@ -1,5 +1,3 @@
-hi
-
 # 👋 Hey, I’m Harsh Yadav!
 
 Welcome to my **Infinite Void**!  
@@ -17,7 +15,7 @@ If you love building cool stuff, learning out loud, or brainstorming wild ideas 
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Toolbox ( `Techniques` )
 
 Here’s what’s usually in my dev toolkit:
 
@@ -33,6 +31,7 @@ Here’s what’s usually in my dev toolkit:
 ![Visitor Badge](https://komarev.com/ghpvc/?username=HarshYadav152&style=flat-square)
 
 <!-- GitHub Stats & Top Langs -->
+### **Domain Expanded**
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshYadav152&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav152&layout=compact&theme=radical&langs_count=10" height="180px"/>
@@ -43,7 +42,7 @@ Here’s what’s usually in my dev toolkit:
 
 ---
 
-## 🛠️ For Developers
+## 🛠️ For Developers ( `Red Nichiran user` )
 
 > Got a cool idea? Want to build something awesome together?  
 > I’m always open to collaboration, open-source contributions, or even techie banter.  
@@ -60,7 +59,8 @@ Here’s what’s usually in my dev toolkit:
 
 ---
 
-## 🤓 Fun Facts
+## 🤓 Fun Facts 
+- think about `yurichi + hoju + jinwoo` in infinity castle 
 
 - 🛠️ I love building stuff that challenges the status quo
 - 🧠 Always learning—suggest a tech/tool, and I’ll probably try it by tomorrow
@@ -78,4 +78,4 @@ Here’s what’s usually in my dev toolkit:
 
 ### If you smiled reading this, we should definitely talk.
 ---
-# Thanks for dropping by -- let's build something extraordinary🤞
+## Thanks for dropping by -- let's build something extraordinary🤞
