@@ -60,11 +60,11 @@ Here’s what’s usually in my dev toolkit:
 ---
 
 ## 🤓 Fun Facts 
-- think about `yurichi + hoju + jinwoo` in infinity castle 
+- think about `yurichi + goju + jinwoo` in infinity castle 
 
 - 🛠️ I love building stuff that challenges the status quo
 - 🧠 Always learning—suggest a tech/tool, and I’ll probably try it by tomorrow
-- ☕ Code + coffee = productivity overload
+- ☕ Code +  `hollow purple` = productivity overload
 ---
 
 <details>
