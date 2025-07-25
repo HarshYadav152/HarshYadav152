@@ -43,6 +43,40 @@ Here’s what’s usually in my dev toolkit:
 
 ## 🔧 Featured Projects
 
+### 🚨 G-secure – Password Management & Cybersecurity Tool
+
+![G-secure Screenshot](https://user-images.githubusercontent.com/HarshYadav152/your-upload-path/image1.png)
+*Screenshot: Welcome page of G-secure*  
+![image1](image1)
+
+[G-secure Live Demo 🚀](https://gsecure-frontent.vercel.app) | [Frontend Repo](https://github.com/HarshYadav152/gsecure-frontent)
+
+G-secure is an open-source, modern password management solution built for security and simplicity.  
+Developed during HackGear1.0 by [Manish Kumar Giri](https://github.com/tanziro6398), [Vinay Kumar](https://github.com/vinayboss9669), and myself.
+
+**Tech Stack:** React, Node.js, Tailwind CSS, MongoDB, bcrypt, JWT  
+**Security:** AES encryption, Zero Knowledge Architecture, Google & GitHub OAuth
+
+#### 🛡️ Key Features
+- Store all your passwords in an encrypted vault (only accessible to you – zero knowledge protocol)
+- Breach check for leaked passwords
+- Generate strong passwords of variable length
+- Check the strength of your password
+- One-click copy with secure clipboard auto-clear
+- Access from anywhere, anytime
+
+#### 🔒 Why G-secure?
+We believe password management should be both simple and secure.  
+G-secure ensures only you know your passwords and leverages industry-standard best practices to keep your data safe.
+
+#### 🤝 Call to Action
+- Try it out now: [Live Demo](https://gsecure-frontent.vercel.app)
+- Star the repo, give feedback, or contribute your own features!
+- We’re actively seeking contributors and feedback to make G-secure even better.
+
+---
+
+
 ## 🛠️ For Developers ( `Red Nichiran user` )
 
 > Got a cool idea? Want to build something awesome together?  
