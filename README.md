@@ -45,9 +45,8 @@ Here’s what’s usually in my dev toolkit:
 
 ### 🚨 G-secure – Password Management & Cybersecurity Tool
 
-![G-secure Screenshot](https://user-images.githubusercontent.com/HarshYadav152/your-upload-path/image1.png)
+![G-secure Screenshot](https://github.com/HarshYadav152/resources/blob/main/images/gsecure/gsecure.png?raw=true)
 *Screenshot: Welcome page of G-secure*  
-![image1](image1)
 
 [G-secure Live Demo 🚀](https://gsecure-frontent.vercel.app) | [Frontend Repo](https://github.com/HarshYadav152/gsecure-frontent)
 
