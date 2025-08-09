@@ -43,9 +43,10 @@ Here’s what’s usually in my dev toolkit:
 
 ## 🔧 Featured Projects
 
-### 🚨 G-secure – Password Management & Cybersecurity Tool
+<details>
+<summary>🚨 G-secure – Password Management & Cybersecurity Tool</summary>
 
-![G-secure Screenshot](https://github.com/HarshYadav152/resources/blob/main/images/gsecure/gsecure.png?raw=true)
+![G-secure Screenshot](https://raw.githubusercontent.com/HarshYadav152/resources/main/images/gsecure/gsecure.png)
 *Screenshot: Welcome page of G-secure*  
 
 [G-secure Live Demo 🚀](https://gsecure-frontent.vercel.app) | [Frontend Repo](https://github.com/HarshYadav152/gsecure-frontent)
@@ -72,7 +73,7 @@ G-secure ensures only you know your passwords and leverages industry-standard be
 - Try it out now: [Live Demo](https://gsecure-frontent.vercel.app)
 - Star the repo, give feedback, or contribute your own features!
 - We’re actively seeking contributors and feedback to make G-secure even better.
-
+</details>
 ---
 
 
