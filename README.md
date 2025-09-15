@@ -76,6 +76,50 @@ G-secure ensures only you know your passwords and leverages industry-standard be
 </details>
 ---
 
+<details>
+<summary>🖼️ Git-galary – Futuristic GitHub Avatar Explorer</summary>
+
+[Live Demo 🚀](https://git-galary.vercel.app) | [Repository](https://github.com/HarshYadav152/git-galary)
+
+A visually rich Next.js + Tailwind web app to discover random GitHub user avatars, inspect user stats, and filter by multiple criteria—wrapped in a neon / glassmorphism UI.
+
+**Tech Stack:** Next.js (App Router, TypeScript), React, Tailwind CSS, GitHub REST API
+
+#### ✨ Core Features
+- Randomized avatar grid with shuffle
+- Click-to-view user modal (repos, profile link, more)
+- One-click avatar download
+- Username search
+- Advanced filters: repos, followers, stars, location, account type
+- API rate limit + reset indicator
+- Optional Personal Access Token input (boosts limit from 60 → 5,000 requests/hour)
+- First-visit Terms & Conditions modal
+- Responsive, futuristic glass UI
+- Smart navbar (hide on scroll) + footer with tech credits
+
+#### 🧪 Dev Focus
+- Clean component architecture (`components/` driven)
+- State orchestration in `page.tsx`
+- Encourages experimentation with GitHub API constraints
+
+#### 🚀 Run Locally
+```bash
+git clone https://github.com/HarshYadav152/git-galary.git
+cd git-galary
+npm install
+npm run dev
+# Visit http://localhost:3000
+```
+
+#### 🔑 Pro Tip
+Add a no-scope GitHub PAT in the Developer section to explore more users without hitting rate limits.
+
+> If you like the UI or want more data dimensions (org stats? contribution heat?), feel free to fork and extend.
+
+</details>
+
+
+---
 
 ## 🛠️ For Developers ( `Red Nichiran user` )
 
