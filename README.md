@@ -79,6 +79,9 @@ G-secure ensures only you know your passwords and leverages industry-standard be
 <details>
 <summary>🖼️ Git-galary – Futuristic GitHub Avatar Explorer</summary>
 
+![Git Galary](https://raw.githubusercontent.com/HarshYadav152/resources/main/images/git-galary/git-galary.png)
+*Git Galary screenshot*
+
 [Live Demo 🚀](https://git-galary.vercel.app) | [Repository](https://github.com/HarshYadav152/git-galary)
 
 A visually rich Next.js + Tailwind web app to discover random GitHub user avatars, inspect user stats, and filter by multiple criteria—wrapped in a neon / glassmorphism UI.
