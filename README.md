@@ -74,7 +74,7 @@ G-secure ensures only you know your passwords and leverages industry-standard be
 - Star the repo, give feedback, or contribute your own features!
 - We’re actively seeking contributors and feedback to make G-secure even better.
 </details>
----
+
 
 <details>
 <summary>🖼️ Git-galary – Futuristic GitHub Avatar Explorer</summary>
