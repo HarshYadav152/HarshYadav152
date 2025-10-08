@@ -44,6 +44,28 @@ Here’s what’s usually in my dev toolkit:
 ## 🔧 Featured Projects
 
 <details>
+<summary>🔗 Social – A Lightweight Social Media Profile Redirector</summary>
+
+![G-social-redirect Screenshot](https://raw.githubusercontent.com/HarshYadav152/resources/main/images/social%20redirect/social-redirect.png)
+*Screenshot od Social Redirect*  
+
+[Repository](https://github.com/HarshYadav152/social)
+
+A lightweight, customizable social media profile redirector built with React. Create clean, short URLs to all your social profiles with an easy-to-deploy, zero-dependency solution.
+
+**Tech Stack:** React, JavaScript, CSS
+**Topics:** social-media, social-redirector
+
+#### ✨ Key Features
+- Create a centralized hub for all your social media profiles
+- Customizable layout and design
+- Easy deployment with GitHub Pages
+- Zero dependencies for lightweight performance
+- Mobile-responsive interface
+
+</details>
+
+<details>
 <summary>🚨 G-secure – Password Management & Cybersecurity Tool</summary>
 
 ![G-secure Screenshot](https://raw.githubusercontent.com/HarshYadav152/resources/main/images/gsecure/gsecure.png)
