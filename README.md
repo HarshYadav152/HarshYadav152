@@ -67,7 +67,7 @@ A lightweight, customizable social media profile redirector built with React. Cr
 ![G-secure Screenshot](https://raw.githubusercontent.com/HarshYadav152/resources/main/images/gsecure/gsecure.png)
 *Screenshot: Welcome page of G-secure*  
 
-[G-secure Live Demo 🚀](https://gsecure-frontent.vercel.app) | [Frontend Repo](https://github.com/HarshYadav152/gsecure-frontent)
+[G-secure Live Demo 🚀](https://gsecure.geetasystems.co.in) | [Frontend Repo](https://github.com/HarshYadav152/Gsecure)
 
 G-secure is an open-source, modern password management solution built for security and simplicity.  
 Developed during HackGear1.0 by [Manish Kumar Giri](https://github.com/tanziro6398), [Vinay Kumar](https://github.com/vinayboss9669), and myself.
@@ -240,7 +240,6 @@ Available for Chrome, Firefox, and Edge. Check the [repository](https://github.c
   <summary>👾 For Developers Only</summary>
 
   ```bash
-  curl -L harshyadav152.me | grep 'innovation'
   # Output: Changing the world, one commit at a time.
 ```
 </details>
