@@ -78,6 +78,11 @@ Here's what's usually in my dev toolkit:
 ---
 ![Visitor Badge](https://komarev.com/ghpvc/?username=HarshYadav152&style=flat-square)
 ---
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 <!-- GitHub Stats & Top Langs -->
 ### **Domain Expanded**
 <p align="left">
