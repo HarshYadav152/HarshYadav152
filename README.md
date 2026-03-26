@@ -91,7 +91,7 @@ Here's what's usually in my dev toolkit:
 </p>
 
 <!-- Profile Summary Card -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshyadav152&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshyadav152&theme=aura_dark)
 
 
 <div align="center" style="margin-bottom: 20px;">
