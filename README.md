@@ -283,6 +283,7 @@ Available for Chrome, Firefox, and Edge. Check the [repository](https://github.c
 
 ## 🌐 Let's Connect
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/harshyadav152.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mSsnpqgP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshyadav_152) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshyadav152) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshyadav152) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshyadav_152) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:HarshYadav152@outlook.com) 
+<a rel="me" href="https://mastodon.social/@harshyadav152">Mastodon</a>
 
 ---
 
