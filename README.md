@@ -78,22 +78,6 @@ Here's what's usually in my dev toolkit:
 ---
 ![Visitor Badge](https://komarev.com/ghpvc/?username=HarshYadav152&style=flat-square)
 ---
-## ⏱ WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-<!-- GitHub Stats & Top Langs -->
-### **Domain Expanded**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshYadav152&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav152&layout=compact&theme=radical&langs_count=10" height="180px"/>
-</p>
-
-<!-- Profile Summary Card -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshyadav152&theme=aura_dark)
-
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshyadav152&theme=react-dark&hide_border=true&area=true&height=350&width=1200" alt="Activity Graph" style="width: 100%; max-width: 1200px; height: auto;"/>
