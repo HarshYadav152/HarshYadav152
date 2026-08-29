@@ -77,6 +77,7 @@ Here's what's usually in my dev toolkit:
 
 ---
 ![Visitor Badge](https://komarev.com/ghpvc/?username=HarshYadav152&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/9b2ac027-3a48-49ae-9077-560e58bd983b.svg)](https://wakatime.com/@9b2ac027-3a48-49ae-9077-560e58bd983b)
 ---
 
 <div align="center" style="margin-bottom: 20px;">
